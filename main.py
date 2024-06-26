@@ -73,8 +73,4 @@ def test():
     search_words_in_documents(challenge_queries)
 
 
-print("===================")
-print("SUBPROJECT 2")
-print("===================")
-
 test()
